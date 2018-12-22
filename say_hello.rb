@@ -1,1 +1,4 @@
-# Build your say_hello method heredef
+def say_hello(name)
+  name("Gabriel")
+end
+
